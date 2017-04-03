@@ -17,7 +17,7 @@ public class Systemy{
     
     public static void main(String[] args){
         Systemy funkcje=new Systemy();
-        System.out.println(funkcje.DecToBin(12345));
+        System.out.println(funkcje.DecToBin(10));
     }
     }
     
